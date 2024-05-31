@@ -1,10 +1,8 @@
-/*
- * Author : Devarsh Patel
- * Filename : ProjectileMotion.java
- * Description: This java file calculate the horizontal and vertical distance travelled from projectile motion at given time
- * Version : 1.0
- * Date: 29-05-2024
-*/
+//Author : Devarsh Patel
+// Filename : ProjectileMotion.java
+// Description: This java file calculate the horizontal and vertical distance travelled from projectile motion at given time
+// Version : 1.0
+// Date: 29-05-2024
 
 import java.util.Scanner;
 
